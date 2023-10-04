@@ -1,5 +1,5 @@
 <p align="center"> 
-<b>༺═════════[👸]══════════༻</b>
+<b>༺═════════[🐶]══════════༻</b>
 </p>
 <p align="center">
 <img src="https://i.imgur.com/u956kdR.jpeg" width="300" height="300"/>
@@ -22,31 +22,25 @@
 
 # 
 
-Queen elisa whatsapp bot is,
-A very good bot that you can use in whatsapp.
+FEDERICO whatsapp bot Es,
+Un bot muy malo que puedes usar en whatsapp.
 
 # 
 
-* 𝗤𝗨𝗘𝗘𝗡 𝗘𝗟𝗜𝗦𝗔 𝗪𝗘𝗕 𝗦𝗜𝗧𝗘
+* Federico
 <p align="left">
-<a href="http://www.queenelisa.42web.io"><img align="center" src="https://telegra.ph/file/8b7c4a9bbaae67b1b2e0e.png" alt="VISIT QUEEN ELISA WEBSITE" height="35" width="150" /></a>
+<a href="hecho por betl"><img align="center" src="https://telegra.ph/file/8b7c4a9bbaae67b1b2e0e.png" alt="una basura" height="35" width="150" /></a>
 </p align="left">
 
 # 
-* 𝗙𝗢𝗥𝗞 𝗡𝗢𝗪
+* BIFURCAR AHORA
 
 <p align="left">
-<a href="https://github.com/DarkMakerofc/Queen-Elisa-MD-V2/fork"><img align="center" src="https://telegra.ph/file/3514997e86c4bb12d8f67.png" alt="Fork and deploy" height="35" width="155" /></a>
+<a href="https://github.com/DarkMakerofc/Queen-Elisa-MD-V2/fork"><img align="center" src="https://telegra.ph/file/3514997e86c4bb12d8f67.png" alt="Bifurcar e implementar" height="35" width="155" /></a>
 
 # 
 
 * [`𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@MRNima/QUEEN-ELISA-V2-MD-WHATSAPP-SCANER?v=1?outputonly=1&lite=1#index.js)
-
-# 
-
-* 𝗛𝗘𝗥𝗢𝗞𝗨 𝗧𝗘𝗠𝗣𝗟𝗔𝗧𝗘 𝗟𝗜𝗡𝗞
-       
-          https://heroku.com/deploy?template=
 
 
 ## [`WATCH YOUTUBE VIDEO`](youtube.com/MRNIMAOFC)
@@ -57,19 +51,18 @@ A very good bot that you can use in whatsapp.
 # 
 +  DEPLOY STEPS
 # 
-1. Fork this repository 
-2. scan qr code
-3. uplode qr code your forked repo
-4. make deploy link
-5. deploy using your link 💖
+1. Bifurcar este repositorio 
+2. Escanear código QR
+3. Codifica QR uplode tu repositorio bifurcado
+4. Hacer vínculo de implementación
+5. Implementar mediante el vínculo 
 
 
-THANAKS FOR USNING QUEEN ELISA 💃💖
+AGRADECIMIENTOS POR USAR A FEDERICO 🐶🖕
+
+[GRANDE BETOO]
 
 
-[Join Public Group](https://chat.whatsapp.com/BbIpvkRD4qP6xKckb8cpT0)
 
-
-
-Thanks For - [tuna](github.com/zimbot) for script , [thashi 💖]() for Voice ,[slrealtech]() , [darkalpha]() , [sanuwa]() and [isuru]() thanks for helps 💖
+Gracias a mel por la idea de mierda
 
