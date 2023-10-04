@@ -4,13 +4,11 @@
  ▀▀█▄   ▀▄▄▀   █▄▄▄   █▄▄▄   █░░▀█                 █▄▄▄   █▄▄█   ▄█▄   █▄▄▄█   █░▒█       █▄▄   █   █▄▄█   █   █▄▄█      
 
  
-   QUEEN ELISA WHATSAPP BOT 2022
+   FEDERICO WHATSAPP BOT 2023
    
- CREATED BY MR NIMA
- BASE BOT - TUNA
- HELPERS - SL REAL TECH , THASHI , THINURA , THISAL
+ CREADO POR BETO
  
- 💞 THANKS FOR USEING ELISA 
+ GRACIAS POR USAR A FEDERICO
 
 
 */
