@@ -1,5 +1,5 @@
 {
-  "name": "QUEEN ELISA BOT 2.3.0 V",
+  "name": "Federico BOT 2.3.0 V",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/DarkMakerofc/Queen-Elisa-MD-V2",
   "logo": "https://telegra.ph/file/30e4c947775ac2a0d2897.jpg",
@@ -32,7 +32,7 @@
 "CAPTION" :{
   "description" : "YOUR CAPTION",
   "requred" : false,
-  "value" : "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰"
+  "value" : "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 federico"
   },
   
   "SEND_WELCOME_MASSAGE" :{
