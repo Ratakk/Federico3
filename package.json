@@ -1,7 +1,7 @@
 {
-  "name": "Queen-Elisa",
+  "name": "Federico",
   "version": "2.3.0",
-  "description": "WhatsApp Using Lib Baileys Multi Device",
+  "description": "WhatsApp usings Lib Baileys Multi Device",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -10,15 +10,15 @@
   "keywords": [
     "termux",
     "whatsapp",
-    "2022",
-    "QueenElisa",
+    "2023",
+    "Federico",
     "base",
     "baileys-md",
     "bot",
     "bot-md",
     "multi-device"
   ],
-  "author": "DARKMAKER(mrnima)",
+  "author": "Rtkk(beto)",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "git+https://github.com/MR-NIMA-X/Baileys.git",
